@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5338" started-at="2017-09-29T02:53:19Z" finished-at="2017-09-29T02:53:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5338" started-at="2017-09-29T02:53:19Z" finished-at="2017-09-29T02:53:24Z">
+      <class name="com.test.mavenframework.uiAutomation.homePage.DBTest">
+        <test-method status="PASS" signature="selectDBData()[pri:0, instance:com.test.mavenframework.uiAutomation.homePage.DBTest@8bd1b6a]" name="selectDBData" duration-ms="5306" started-at="2017-09-29T08:23:19Z" finished-at="2017-09-29T08:23:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectDBData -->
+      </class> <!-- com.test.mavenframework.uiAutomation.homePage.DBTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

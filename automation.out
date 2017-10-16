@@ -1,0 +1,635 @@
+2017-14-29 18:14:23 INFO  VerifyValidLogin:25 - *******************Starting VerifyValidLogin Test****************
+2017-14-29 18:14:24 INFO  HomePage:30 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (62d3766f-16f4-40d3-bd64-4f22e4b940c8)] -> xpath: //input[@id='admin_user_username']]
+2017-14-29 18:14:25 INFO  HomePage:32 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (62d3766f-16f4-40d3-bd64-4f22e4b940c8)] -> xpath: //input[@id='admin_user_password']]
+2017-16-29 18:16:08 INFO  VerifyValidLogin:25 - *******************Starting VerifyValidLogin Test****************
+2017-16-29 18:16:08 INFO  HomePage:30 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (d66372eb-b5e1-4bff-a9ac-828068e496cc)] -> xpath: //input[@id='admin_user_username']]
+2017-16-29 18:16:08 INFO  HomePage:32 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (d66372eb-b5e1-4bff-a9ac-828068e496cc)] -> xpath: //input[@id='admin_user_password']]
+2017-16-29 18:16:44 INFO  HomePage:34 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-16-29 18:16:44 INFO  VerifyValidLogin:28 - *******************Finished VerifyValidLogin Test****************
+2017-41-19 07:41:34 INFO  ExcelReader:52 - ===========Excel reader Starts=========
+2017-49-19 07:49:33 INFO  ExcelReader:52 - ===========Excel reader Starts=========
+2017-49-19 07:49:33 INFO  ExcelReader:78 - ==========Excel Reading Finished================
+2017-49-19 07:49:33 INFO  TestBase:38 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-49-19 07:49:34 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (48475b82-4b6c-48ef-b614-b7a1ff0a55a1)] -> xpath: //input[@id='admin_user_username']]
+2017-49-19 07:49:34 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (48475b82-4b6c-48ef-b614-b7a1ff0a55a1)] -> xpath: //input[@id='admin_user_password']]
+2017-50-19 07:50:10 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-50-19 07:50:10 INFO  HomePage:43 - logout is displayed and object is [[FirefoxDriver: firefox on WINDOWS (48475b82-4b6c-48ef-b614-b7a1ff0a55a1)] -> xpath: //a[@class='logout']]
+2017-50-19 07:50:44 INFO  HomePage:55 - Clicked on Logout link and object isProxy element for: DefaultElementLocator 'By.xpath: //a[@class='logout']'
+2017-50-19 07:50:44 INFO  TestBase:48 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2017-50-19 07:50:44 INFO  TestBase:38 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-50-19 07:50:44 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (48475b82-4b6c-48ef-b614-b7a1ff0a55a1)] -> xpath: //input[@id='admin_user_username']]
+2017-50-19 07:50:44 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (48475b82-4b6c-48ef-b614-b7a1ff0a55a1)] -> xpath: //input[@id='admin_user_password']]
+2017-51-19 07:51:18 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-51-19 07:51:19 INFO  HomePage:43 - logout is displayed and object is [[FirefoxDriver: firefox on WINDOWS (48475b82-4b6c-48ef-b614-b7a1ff0a55a1)] -> xpath: //a[@class='logout']]
+2017-51-19 07:51:52 INFO  HomePage:55 - Clicked on Logout link and object isProxy element for: DefaultElementLocator 'By.xpath: //a[@class='logout']'
+2017-51-19 07:51:52 INFO  TestBase:48 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2017-51-19 07:51:52 INFO  TestBase:38 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-51-19 07:51:52 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (48475b82-4b6c-48ef-b614-b7a1ff0a55a1)] -> xpath: //input[@id='admin_user_username']]
+2017-51-19 07:51:52 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (48475b82-4b6c-48ef-b614-b7a1ff0a55a1)] -> xpath: //input[@id='admin_user_password']]
+2017-52-19 07:52:26 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-52-19 07:52:26 INFO  HomePage:43 - logout is displayed and object is [[FirefoxDriver: firefox on WINDOWS (48475b82-4b6c-48ef-b614-b7a1ff0a55a1)] -> xpath: //a[@class='logout']]
+2017-52-19 07:52:58 INFO  HomePage:55 - Clicked on Logout link and object isProxy element for: DefaultElementLocator 'By.xpath: //a[@class='logout']'
+2017-52-19 07:52:58 INFO  TestBase:48 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2017-52-19 07:52:58 INFO  TestBase:38 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-52-19 07:52:59 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (48475b82-4b6c-48ef-b614-b7a1ff0a55a1)] -> xpath: //input[@id='admin_user_username']]
+2017-52-19 07:52:59 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (48475b82-4b6c-48ef-b614-b7a1ff0a55a1)] -> xpath: //input[@id='admin_user_password']]
+2017-53-19 07:53:32 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-53-19 07:53:32 INFO  HomePage:43 - logout is displayed and object is [[FirefoxDriver: firefox on WINDOWS (48475b82-4b6c-48ef-b614-b7a1ff0a55a1)] -> xpath: //a[@class='logout']]
+2017-54-19 07:54:05 INFO  HomePage:55 - Clicked on Logout link and object isProxy element for: DefaultElementLocator 'By.xpath: //a[@class='logout']'
+2017-54-19 07:54:05 INFO  TestBase:48 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2017-54-19 07:54:05 INFO  TestBase:38 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-54-19 07:54:05 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (48475b82-4b6c-48ef-b614-b7a1ff0a55a1)] -> xpath: //input[@id='admin_user_username']]
+2017-54-19 07:54:05 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (48475b82-4b6c-48ef-b614-b7a1ff0a55a1)] -> xpath: //input[@id='admin_user_password']]
+2017-54-19 07:54:39 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-54-19 07:54:40 INFO  HomePage:43 - logout is displayed and object is [[FirefoxDriver: firefox on WINDOWS (48475b82-4b6c-48ef-b614-b7a1ff0a55a1)] -> xpath: //a[@class='logout']]
+2017-55-19 07:55:13 INFO  HomePage:55 - Clicked on Logout link and object isProxy element for: DefaultElementLocator 'By.xpath: //a[@class='logout']'
+2017-55-19 07:55:13 INFO  TestBase:48 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2017-55-19 07:55:13 INFO  TestBase:38 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-55-19 07:55:13 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (48475b82-4b6c-48ef-b614-b7a1ff0a55a1)] -> xpath: //input[@id='admin_user_username']]
+2017-55-19 07:55:13 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (48475b82-4b6c-48ef-b614-b7a1ff0a55a1)] -> xpath: //input[@id='admin_user_password']]
+2017-55-19 07:55:47 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-55-19 07:55:47 INFO  HomePage:43 - logout is displayed and object is [[FirefoxDriver: firefox on WINDOWS (48475b82-4b6c-48ef-b614-b7a1ff0a55a1)] -> xpath: //a[@class='logout']]
+2017-56-19 07:56:20 INFO  HomePage:55 - Clicked on Logout link and object isProxy element for: DefaultElementLocator 'By.xpath: //a[@class='logout']'
+2017-56-19 07:56:20 INFO  TestBase:48 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2017-56-19 07:56:20 INFO  TestBase:38 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-56-19 07:56:20 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (48475b82-4b6c-48ef-b614-b7a1ff0a55a1)] -> xpath: //input[@id='admin_user_username']]
+2017-56-19 07:56:20 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (48475b82-4b6c-48ef-b614-b7a1ff0a55a1)] -> xpath: //input[@id='admin_user_password']]
+2017-56-19 07:56:54 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-56-19 07:56:54 INFO  HomePage:43 - logout is displayed and object is [[FirefoxDriver: firefox on WINDOWS (48475b82-4b6c-48ef-b614-b7a1ff0a55a1)] -> xpath: //a[@class='logout']]
+2017-57-19 07:57:26 INFO  HomePage:55 - Clicked on Logout link and object isProxy element for: DefaultElementLocator 'By.xpath: //a[@class='logout']'
+2017-57-19 07:57:26 INFO  TestBase:48 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2017-04-19 08:04:28 INFO  ExcelReader:52 - ===========Excel reader Starts=========
+2017-04-19 08:04:28 INFO  ExcelReader:78 - ==========Excel Reading Finished================
+2017-04-19 08:04:28 INFO  TestBase:38 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-04-19 08:04:29 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (5a818783-bf98-4748-8e10-3f67b079dc2c)] -> xpath: //input[@id='admin_user_username']]
+2017-04-19 08:04:29 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (5a818783-bf98-4748-8e10-3f67b079dc2c)] -> xpath: //input[@id='admin_user_password']]
+2017-05-19 08:05:03 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-05-19 08:05:03 INFO  HomePage:43 - logout is displayed and object is [[FirefoxDriver: firefox on WINDOWS (5a818783-bf98-4748-8e10-3f67b079dc2c)] -> xpath: //a[@class='logout']]
+2017-05-19 08:05:36 INFO  HomePage:55 - Clicked on Logout link and object isProxy element for: DefaultElementLocator 'By.xpath: //a[@class='logout']'
+2017-05-19 08:05:36 INFO  TestBase:48 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2017-05-19 08:05:36 INFO  TestBase:38 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-05-19 08:05:36 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (5a818783-bf98-4748-8e10-3f67b079dc2c)] -> xpath: //input[@id='admin_user_username']]
+2017-05-19 08:05:36 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (5a818783-bf98-4748-8e10-3f67b079dc2c)] -> xpath: //input[@id='admin_user_password']]
+2017-06-19 08:06:10 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-06-19 08:06:10 INFO  HomePage:43 - logout is displayed and object is [[FirefoxDriver: firefox on WINDOWS (5a818783-bf98-4748-8e10-3f67b079dc2c)] -> xpath: //a[@class='logout']]
+2017-06-19 08:06:43 INFO  HomePage:55 - Clicked on Logout link and object isProxy element for: DefaultElementLocator 'By.xpath: //a[@class='logout']'
+2017-06-19 08:06:43 INFO  TestBase:48 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2017-06-19 08:06:43 INFO  TestBase:38 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-06-19 08:06:43 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (5a818783-bf98-4748-8e10-3f67b079dc2c)] -> xpath: //input[@id='admin_user_username']]
+2017-06-19 08:06:43 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (5a818783-bf98-4748-8e10-3f67b079dc2c)] -> xpath: //input[@id='admin_user_password']]
+2017-07-19 08:07:17 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-07-19 08:07:17 INFO  HomePage:43 - logout is displayed and object is [[FirefoxDriver: firefox on WINDOWS (5a818783-bf98-4748-8e10-3f67b079dc2c)] -> xpath: //a[@class='logout']]
+2017-07-19 08:07:49 INFO  HomePage:55 - Clicked on Logout link and object isProxy element for: DefaultElementLocator 'By.xpath: //a[@class='logout']'
+2017-07-19 08:07:49 INFO  TestBase:48 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2017-07-19 08:07:49 INFO  TestBase:38 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-07-19 08:07:49 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (5a818783-bf98-4748-8e10-3f67b079dc2c)] -> xpath: //input[@id='admin_user_username']]
+2017-07-19 08:07:49 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (5a818783-bf98-4748-8e10-3f67b079dc2c)] -> xpath: //input[@id='admin_user_password']]
+2017-08-19 08:08:23 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-08-19 08:08:23 INFO  HomePage:43 - logout is displayed and object is [[FirefoxDriver: firefox on WINDOWS (5a818783-bf98-4748-8e10-3f67b079dc2c)] -> xpath: //a[@class='logout']]
+2017-08-19 08:08:56 INFO  HomePage:55 - Clicked on Logout link and object isProxy element for: DefaultElementLocator 'By.xpath: //a[@class='logout']'
+2017-08-19 08:08:56 INFO  TestBase:48 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2017-08-19 08:08:56 INFO  TestBase:38 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-08-19 08:08:56 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (5a818783-bf98-4748-8e10-3f67b079dc2c)] -> xpath: //input[@id='admin_user_username']]
+2017-08-19 08:08:56 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (5a818783-bf98-4748-8e10-3f67b079dc2c)] -> xpath: //input[@id='admin_user_password']]
+2017-09-19 08:09:45 INFO  ExcelReader:52 - ===========Excel reader Starts=========
+2017-09-19 08:09:45 INFO  ExcelReader:78 - ==========Excel Reading Finished================
+2017-09-19 08:09:45 INFO  TestBase:39 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-09-19 08:09:46 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (40ab56c8-6643-4b5e-9b2c-0014bd797e4c)] -> xpath: //input[@id='admin_user_username']]
+2017-09-19 08:09:46 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (40ab56c8-6643-4b5e-9b2c-0014bd797e4c)] -> xpath: //input[@id='admin_user_password']]
+2017-10-19 08:10:20 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-10-19 08:10:20 INFO  HomePage:43 - logout is displayed and object is [[FirefoxDriver: firefox on WINDOWS (40ab56c8-6643-4b5e-9b2c-0014bd797e4c)] -> xpath: //a[@class='logout']]
+2017-10-19 08:10:53 INFO  HomePage:55 - Clicked on Logout link and object isProxy element for: DefaultElementLocator 'By.xpath: //a[@class='logout']'
+2017-10-19 08:10:53 INFO  TestBase:49 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2017-10-19 08:10:53 INFO  TestBase:39 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-10-19 08:10:53 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (40ab56c8-6643-4b5e-9b2c-0014bd797e4c)] -> xpath: //input[@id='admin_user_username']]
+2017-10-19 08:10:54 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (40ab56c8-6643-4b5e-9b2c-0014bd797e4c)] -> xpath: //input[@id='admin_user_password']]
+2017-11-19 08:11:27 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-11-19 08:11:27 INFO  HomePage:43 - logout is displayed and object is [[FirefoxDriver: firefox on WINDOWS (40ab56c8-6643-4b5e-9b2c-0014bd797e4c)] -> xpath: //a[@class='logout']]
+2017-12-19 08:12:00 INFO  HomePage:55 - Clicked on Logout link and object isProxy element for: DefaultElementLocator 'By.xpath: //a[@class='logout']'
+2017-12-19 08:12:00 INFO  TestBase:49 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2017-49-25 07:49:50 INFO  ExcelReader:54 - ===========Excel reader Starts=========
+2017-49-25 07:49:50 INFO  ExcelReader:80 - ==========Excel Reading Finished================
+2017-49-25 07:49:50 INFO  TestBase:39 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-49-25 07:49:51 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (7cc669b2-38b9-4c73-8341-4578eca6cf73)] -> xpath: //input[@id='admin_user_username']]
+2017-49-25 07:49:51 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (7cc669b2-38b9-4c73-8341-4578eca6cf73)] -> xpath: //input[@id='admin_user_password']]
+2017-50-25 07:50:27 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-50-25 07:50:27 INFO  HomePage:43 - logout is displayed and object is [[FirefoxDriver: firefox on WINDOWS (7cc669b2-38b9-4c73-8341-4578eca6cf73)] -> xpath: //a[@class='logout']]
+2017-50-25 07:50:59 INFO  HomePage:55 - Clicked on Logout link and object isProxy element for: DefaultElementLocator 'By.xpath: //a[@class='logout']'
+2017-50-25 07:50:59 INFO  TestBase:49 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2017-50-25 07:50:59 INFO  TestBase:39 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-50-25 07:50:59 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (7cc669b2-38b9-4c73-8341-4578eca6cf73)] -> xpath: //input[@id='admin_user_username']]
+2017-50-25 07:50:59 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (7cc669b2-38b9-4c73-8341-4578eca6cf73)] -> xpath: //input[@id='admin_user_password']]
+2017-52-25 07:52:26 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-52-25 07:52:26 INFO  HomePage:43 - logout is displayed and object is [[FirefoxDriver: firefox on WINDOWS (7cc669b2-38b9-4c73-8341-4578eca6cf73)] -> xpath: //a[@class='logout']]
+2017-52-25 07:52:59 INFO  HomePage:55 - Clicked on Logout link and object isProxy element for: DefaultElementLocator 'By.xpath: //a[@class='logout']'
+2017-52-25 07:52:59 INFO  TestBase:49 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2017-54-25 07:54:56 INFO  TestBase:35 - Creating object of firefox
+2017-55-25 07:55:11 INFO  TestBase:42 - Navigating to http://bvc-qa.herokuapp.com/admin
+2017-55-25 07:55:20 INFO  ExcelReader:54 - ===========Excel reader Starts=========
+2017-55-25 07:55:20 INFO  ExcelReader:80 - ==========Excel Reading Finished================
+2017-55-25 07:55:20 INFO  TestBase:39 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-55-25 07:55:20 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (44552cff-c030-4a43-956a-b95e7af1950c)] -> xpath: //input[@id='admin_user_username']]
+2017-55-25 07:55:20 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (44552cff-c030-4a43-956a-b95e7af1950c)] -> xpath: //input[@id='admin_user_password']]
+2017-55-25 07:55:56 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-55-25 07:55:56 INFO  HomePage:43 - logout is displayed and object is [[FirefoxDriver: firefox on WINDOWS (44552cff-c030-4a43-956a-b95e7af1950c)] -> xpath: //a[@class='logout']]
+2017-56-25 07:56:28 INFO  HomePage:55 - Clicked on Logout link and object isProxy element for: DefaultElementLocator 'By.xpath: //a[@class='logout']'
+2017-56-25 07:56:28 INFO  TestBase:49 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2017-56-25 07:56:28 INFO  TestBase:39 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-56-25 07:56:29 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (44552cff-c030-4a43-956a-b95e7af1950c)] -> xpath: //input[@id='admin_user_username']]
+2017-56-25 07:56:29 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (44552cff-c030-4a43-956a-b95e7af1950c)] -> xpath: //input[@id='admin_user_password']]
+2017-57-25 07:57:02 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-57-25 07:57:02 INFO  HomePage:43 - logout is displayed and object is [[FirefoxDriver: firefox on WINDOWS (44552cff-c030-4a43-956a-b95e7af1950c)] -> xpath: //a[@class='logout']]
+2017-57-25 07:57:36 INFO  HomePage:55 - Clicked on Logout link and object isProxy element for: DefaultElementLocator 'By.xpath: //a[@class='logout']'
+2017-57-25 07:57:36 INFO  TestBase:49 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2017-57-25 07:57:36 INFO  VerifyValidLogin:25 - *******************Starting VerifyValidLogin Test****************
+2017-57-25 07:57:36 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (48a4b2a4-c1e1-4b5d-afca-25368f4b55a6)] -> xpath: //input[@id='admin_user_username']]
+2017-57-25 07:57:36 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (48a4b2a4-c1e1-4b5d-afca-25368f4b55a6)] -> xpath: //input[@id='admin_user_password']]
+2017-58-25 07:58:17 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-58-25 07:58:17 INFO  VerifyValidLogin:28 - *******************Finished VerifyValidLogin Test****************
+2017-07-25 08:07:49 INFO  TestBase:35 - Creating object of firefox
+2017-08-25 08:08:05 INFO  TestBase:42 - Navigating to http://bvc-qa.herokuapp.com/admin
+2017-08-25 08:08:09 INFO  ExcelReader:54 - ===========Excel reader Starts=========
+2017-08-25 08:08:09 INFO  ExcelReader:80 - ==========Excel Reading Finished================
+2017-08-25 08:08:09 INFO  TestBase:39 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-08-25 08:08:10 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (3afe9cc7-029f-4e0e-a6d8-831e34b1b9bc)] -> xpath: //input[@id='admin_user_username']]
+2017-08-25 08:08:10 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (3afe9cc7-029f-4e0e-a6d8-831e34b1b9bc)] -> xpath: //input[@id='admin_user_password']]
+2017-08-25 08:08:45 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-08-25 08:08:45 INFO  HomePage:43 - logout is displayed and object is [[FirefoxDriver: firefox on WINDOWS (3afe9cc7-029f-4e0e-a6d8-831e34b1b9bc)] -> xpath: //a[@class='logout']]
+2017-09-25 08:09:18 INFO  HomePage:55 - Clicked on Logout link and object isProxy element for: DefaultElementLocator 'By.xpath: //a[@class='logout']'
+2017-09-25 08:09:18 INFO  TestBase:49 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2017-09-25 08:09:18 INFO  TestBase:39 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-09-25 08:09:19 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (3afe9cc7-029f-4e0e-a6d8-831e34b1b9bc)] -> xpath: //input[@id='admin_user_username']]
+2017-09-25 08:09:19 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (3afe9cc7-029f-4e0e-a6d8-831e34b1b9bc)] -> xpath: //input[@id='admin_user_password']]
+2017-09-25 08:09:52 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-09-25 08:09:52 INFO  HomePage:43 - logout is displayed and object is [[FirefoxDriver: firefox on WINDOWS (3afe9cc7-029f-4e0e-a6d8-831e34b1b9bc)] -> xpath: //a[@class='logout']]
+2017-10-25 08:10:25 INFO  HomePage:55 - Clicked on Logout link and object isProxy element for: DefaultElementLocator 'By.xpath: //a[@class='logout']'
+2017-10-25 08:10:25 INFO  TestBase:49 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2017-10-25 08:10:25 INFO  VerifyValidLogin:25 - *******************Starting VerifyValidLogin Test****************
+2017-10-25 08:10:25 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (1a626b70-7afa-4a21-b2cd-3e4c6a3686a2)] -> xpath: //input[@id='admin_user_username']]
+2017-10-25 08:10:25 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (1a626b70-7afa-4a21-b2cd-3e4c6a3686a2)] -> xpath: //input[@id='admin_user_password']]
+2017-11-25 08:11:02 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-11-25 08:11:02 INFO  VerifyValidLogin:28 - *******************Finished VerifyValidLogin Test****************
+2017-14-25 08:14:32 INFO  TestBase:35 - Creating object of firefox
+2017-14-25 08:14:47 INFO  TestBase:42 - Navigating to http://bvc-qa.herokuapp.com/admin
+2017-14-25 08:14:50 INFO  ExcelReader:54 - ===========Excel reader Starts=========
+2017-14-25 08:14:50 INFO  ExcelReader:80 - ==========Excel Reading Finished================
+2017-14-25 08:14:50 INFO  TestBase:39 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-14-25 08:14:50 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (883ff326-2826-4155-9573-1b7f00dbd6ac)] -> xpath: //input[@id='admin_user_username']]
+2017-14-25 08:14:50 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (883ff326-2826-4155-9573-1b7f00dbd6ac)] -> xpath: //input[@id='admin_user_password']]
+2017-15-25 08:15:25 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-15-25 08:15:25 INFO  HomePage:43 - logout is displayed and object is [[FirefoxDriver: firefox on WINDOWS (883ff326-2826-4155-9573-1b7f00dbd6ac)] -> xpath: //a[@class='logout']]
+2017-16-25 08:16:02 INFO  HomePage:55 - Clicked on Logout link and object isProxy element for: DefaultElementLocator 'By.xpath: //a[@class='logout']'
+2017-16-25 08:16:02 INFO  TestBase:49 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2017-16-25 08:16:02 INFO  TestBase:39 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-16-25 08:16:03 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (883ff326-2826-4155-9573-1b7f00dbd6ac)] -> xpath: //input[@id='admin_user_username']]
+2017-16-25 08:16:03 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (883ff326-2826-4155-9573-1b7f00dbd6ac)] -> xpath: //input[@id='admin_user_password']]
+2017-16-25 08:16:37 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-16-25 08:16:37 INFO  HomePage:43 - logout is displayed and object is [[FirefoxDriver: firefox on WINDOWS (883ff326-2826-4155-9573-1b7f00dbd6ac)] -> xpath: //a[@class='logout']]
+2017-17-25 08:17:11 INFO  HomePage:55 - Clicked on Logout link and object isProxy element for: DefaultElementLocator 'By.xpath: //a[@class='logout']'
+2017-17-25 08:17:11 INFO  TestBase:49 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2017-17-25 08:17:11 INFO  VerifyValidLogin:25 - *******************Starting VerifyValidLogin Test****************
+2017-17-25 08:17:11 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (e5cbb7d9-60fe-4e03-8d52-6375f020b22c)] -> xpath: //input[@id='admin_user_username']]
+2017-17-25 08:17:11 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (e5cbb7d9-60fe-4e03-8d52-6375f020b22c)] -> xpath: //input[@id='admin_user_password']]
+2017-17-25 08:17:46 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-17-25 08:17:46 INFO  VerifyValidLogin:28 - *******************Finished VerifyValidLogin Test****************
+2017-23-25 08:23:32 INFO  VerifyValidLogin:26 - *******************Starting VerifyValidLogin Test****************
+2017-23-25 08:23:32 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (6f575623-fbed-4e86-ae86-5236d63f42aa)] -> xpath: //input[@id='admin_user_username']]
+2017-23-25 08:23:32 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (6f575623-fbed-4e86-ae86-5236d63f42aa)] -> xpath: //input[@id='admin_user_password']]
+2017-24-25 08:24:11 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-24-25 08:24:11 INFO  VerifyValidLogin:30 - *******************Finished VerifyValidLogin Test****************
+2017-27-25 08:27:13 INFO  TestBase:35 - Creating object of firefox
+2017-27-25 08:27:37 INFO  TestBase:42 - Navigating to http://bvc-qa.herokuapp.com/admin
+2017-27-25 08:27:41 INFO  ExcelReader:54 - ===========Excel reader Starts=========
+2017-27-25 08:27:41 INFO  ExcelReader:80 - ==========Excel Reading Finished================
+2017-27-25 08:27:41 INFO  TestBase:40 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-27-25 08:27:42 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (4c60a78d-7776-40b1-95fb-f35a42392f78)] -> xpath: //input[@id='admin_user_username']]
+2017-27-25 08:27:42 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (4c60a78d-7776-40b1-95fb-f35a42392f78)] -> xpath: //input[@id='admin_user_password']]
+2017-28-25 08:28:17 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-28-25 08:28:17 INFO  HomePage:43 - logout is displayed and object is [[FirefoxDriver: firefox on WINDOWS (4c60a78d-7776-40b1-95fb-f35a42392f78)] -> xpath: //a[@class='logout']]
+2017-28-25 08:28:51 INFO  HomePage:55 - Clicked on Logout link and object isProxy element for: DefaultElementLocator 'By.xpath: //a[@class='logout']'
+2017-28-25 08:28:51 INFO  TestBase:50 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2017-28-25 08:28:51 INFO  TestBase:40 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-28-25 08:28:52 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (4c60a78d-7776-40b1-95fb-f35a42392f78)] -> xpath: //input[@id='admin_user_username']]
+2017-28-25 08:28:52 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (4c60a78d-7776-40b1-95fb-f35a42392f78)] -> xpath: //input[@id='admin_user_password']]
+2017-29-25 08:29:34 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-29-25 08:29:34 INFO  HomePage:43 - logout is displayed and object is [[FirefoxDriver: firefox on WINDOWS (4c60a78d-7776-40b1-95fb-f35a42392f78)] -> xpath: //a[@class='logout']]
+2017-30-25 08:30:12 INFO  HomePage:55 - Clicked on Logout link and object isProxy element for: DefaultElementLocator 'By.xpath: //a[@class='logout']'
+2017-30-25 08:30:12 INFO  TestBase:50 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2017-30-25 08:30:12 INFO  VerifyValidLogin:26 - *******************Starting VerifyValidLogin Test****************
+2017-30-25 08:30:12 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (f77704e3-b308-458b-842f-89ac71b5168e)] -> xpath: //input[@id='admin_user_username']]
+2017-30-25 08:30:12 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (f77704e3-b308-458b-842f-89ac71b5168e)] -> xpath: //input[@id='admin_user_password']]
+2017-31-25 08:31:04 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-31-25 08:31:04 INFO  VerifyValidLogin:30 - *******************Finished VerifyValidLogin Test****************
+2017-37-25 08:37:26 INFO  TestBase:35 - Creating object of firefox
+2017-39-25 08:39:07 INFO  TestBase:42 - Navigating to http://bvc-qa.herokuapp.com/admin
+2017-39-25 08:39:20 INFO  ExcelReader:54 - ===========Excel reader Starts=========
+2017-39-25 08:39:20 INFO  ExcelReader:80 - ==========Excel Reading Finished================
+2017-39-25 08:39:20 INFO  TestBase:40 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-39-25 08:39:20 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (ddde5f62-4003-4e24-8b7e-6c59b8a1ab90)] -> xpath: //input[@id='admin_user_username']]
+2017-39-25 08:39:21 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (ddde5f62-4003-4e24-8b7e-6c59b8a1ab90)] -> xpath: //input[@id='admin_user_password']]
+2017-40-25 08:40:03 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-40-25 08:40:03 INFO  HomePage:43 - logout is displayed and object is [[FirefoxDriver: firefox on WINDOWS (ddde5f62-4003-4e24-8b7e-6c59b8a1ab90)] -> xpath: //a[@class='logout']]
+2017-40-25 08:40:44 INFO  HomePage:55 - Clicked on Logout link and object isProxy element for: DefaultElementLocator 'By.xpath: //a[@class='logout']'
+2017-40-25 08:40:44 INFO  TestBase:50 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2017-40-25 08:40:45 INFO  TestBase:40 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-40-25 08:40:45 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (ddde5f62-4003-4e24-8b7e-6c59b8a1ab90)] -> xpath: //input[@id='admin_user_username']]
+2017-40-25 08:40:45 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (ddde5f62-4003-4e24-8b7e-6c59b8a1ab90)] -> xpath: //input[@id='admin_user_password']]
+2017-41-25 08:41:24 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-41-25 08:41:24 INFO  HomePage:43 - logout is displayed and object is [[FirefoxDriver: firefox on WINDOWS (ddde5f62-4003-4e24-8b7e-6c59b8a1ab90)] -> xpath: //a[@class='logout']]
+2017-42-25 08:42:03 INFO  HomePage:55 - Clicked on Logout link and object isProxy element for: DefaultElementLocator 'By.xpath: //a[@class='logout']'
+2017-42-25 08:42:03 INFO  TestBase:50 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2017-42-25 08:42:04 INFO  VerifyValidLogin:26 - *******************Starting VerifyValidLogin Test****************
+2017-42-25 08:42:04 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (ddde5f62-4003-4e24-8b7e-6c59b8a1ab90)] -> xpath: //input[@id='admin_user_username']]
+2017-42-25 08:42:04 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (ddde5f62-4003-4e24-8b7e-6c59b8a1ab90)] -> xpath: //input[@id='admin_user_password']]
+2017-42-25 08:42:40 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-42-25 08:42:40 INFO  VerifyValidLogin:30 - *******************Finished VerifyValidLogin Test****************
+2017-55-25 08:55:27 INFO  TestBase:35 - Creating object of firefox
+2017-02-25 09:02:30 INFO  VerifyValidLogin:26 - *******************Starting VerifyValidLogin Test****************
+2017-02-25 09:02:31 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (237bd7c9-15fc-42f3-a301-0733cf8814a2)] -> xpath: //input[@id='admin_user_username']]
+2017-02-25 09:02:32 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (237bd7c9-15fc-42f3-a301-0733cf8814a2)] -> xpath: //input[@id='admin_user_password']]
+2017-03-25 09:03:08 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-03-25 09:03:08 INFO  VerifyValidLogin:30 - *******************Finished VerifyValidLogin Test****************
+2017-05-25 09:05:14 INFO  TestBase:35 - Creating object of firefox
+2017-06-25 09:06:50 INFO  TestBase:42 - Navigating to http://bvc-qa.herokuapp.com/admin
+2017-07-25 09:07:27 INFO  ExcelReader:54 - ===========Excel reader Starts=========
+2017-07-25 09:07:27 INFO  ExcelReader:80 - ==========Excel Reading Finished================
+2017-07-25 09:07:27 INFO  TestBase:40 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-07-25 09:07:28 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (7331b8b6-ba21-4dff-92de-b6818ca5a4d9)] -> xpath: //input[@id='admin_user_username']]
+2017-07-25 09:07:28 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (7331b8b6-ba21-4dff-92de-b6818ca5a4d9)] -> xpath: //input[@id='admin_user_password']]
+2017-08-25 09:08:15 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-08-25 09:08:15 INFO  HomePage:43 - logout is displayed and object is [[FirefoxDriver: firefox on WINDOWS (7331b8b6-ba21-4dff-92de-b6818ca5a4d9)] -> xpath: //a[@class='logout']]
+2017-08-25 09:08:52 INFO  HomePage:55 - Clicked on Logout link and object isProxy element for: DefaultElementLocator 'By.xpath: //a[@class='logout']'
+2017-08-25 09:08:52 INFO  TestBase:50 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2017-08-25 09:08:53 INFO  TestBase:40 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-08-25 09:08:53 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (7331b8b6-ba21-4dff-92de-b6818ca5a4d9)] -> xpath: //input[@id='admin_user_username']]
+2017-08-25 09:08:53 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (7331b8b6-ba21-4dff-92de-b6818ca5a4d9)] -> xpath: //input[@id='admin_user_password']]
+2017-09-25 09:09:29 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-09-25 09:09:29 INFO  HomePage:43 - logout is displayed and object is [[FirefoxDriver: firefox on WINDOWS (7331b8b6-ba21-4dff-92de-b6818ca5a4d9)] -> xpath: //a[@class='logout']]
+2017-10-25 09:10:06 INFO  HomePage:55 - Clicked on Logout link and object isProxy element for: DefaultElementLocator 'By.xpath: //a[@class='logout']'
+2017-10-25 09:10:06 INFO  TestBase:50 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2017-10-25 09:10:07 INFO  VerifyValidLogin:26 - *******************Starting VerifyValidLogin Test****************
+2017-10-25 09:10:07 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (7331b8b6-ba21-4dff-92de-b6818ca5a4d9)] -> xpath: //input[@id='admin_user_username']]
+2017-10-25 09:10:07 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (7331b8b6-ba21-4dff-92de-b6818ca5a4d9)] -> xpath: //input[@id='admin_user_password']]
+2017-10-25 09:10:42 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-10-25 09:10:42 INFO  VerifyValidLogin:30 - *******************Finished VerifyValidLogin Test****************
+2017-43-06 07:43:29 INFO  VerifyValidLogin:28 - *******************Starting VerifyValidLogin Test****************
+2017-43-06 07:43:29 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (77c10784-7560-4a7a-a2b8-56a1bb6c199a)] -> xpath: //input[@id='admin_user_username']]
+2017-43-06 07:43:30 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (77c10784-7560-4a7a-a2b8-56a1bb6c199a)] -> xpath: //input[@id='admin_user_password']]
+2017-44-06 07:44:13 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-44-06 07:44:13 INFO  VerifyValidLogin:32 - *******************Finished VerifyValidLogin Test****************
+2017-48-06 07:48:42 INFO  VerifyValidLogin:28 - *******************Starting VerifyValidLogin Test****************
+2017-48-06 07:48:42 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (5b7ab31e-5e81-4b8b-a288-8a6bd752e336)] -> xpath: //input[@id='admin_user_username']]
+2017-48-06 07:48:42 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (5b7ab31e-5e81-4b8b-a288-8a6bd752e336)] -> xpath: //input[@id='admin_user_password']]
+2017-49-06 07:49:21 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-49-06 07:49:21 INFO  VerifyValidLogin:33 - *******************Finished VerifyValidLogin Test****************
+2017-10-06 08:10:37 INFO  VerifyValidLogin:28 - *******************Starting VerifyValidLogin Test****************
+2017-10-06 08:10:37 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (1c7d2005-0059-4dd8-9742-9f411e954856)] -> xpath: //input[@id='admin_user_username']]
+2017-10-06 08:10:38 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (1c7d2005-0059-4dd8-9742-9f411e954856)] -> xpath: //input[@id='admin_user_password']]
+2017-11-06 08:11:12 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-11-06 08:11:12 INFO  VerifyValidLogin:34 - *******************Finished VerifyValidLogin Test****************
+2017-17-06 08:17:13 INFO  VerifyValidLogin:28 - *******************Starting VerifyValidLogin Test****************
+2017-17-06 08:17:13 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (e44de0a8-4a98-4c34-ae59-1696ce800319)] -> xpath: //input[@id='admin_user_username']]
+2017-17-06 08:17:14 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (e44de0a8-4a98-4c34-ae59-1696ce800319)] -> xpath: //input[@id='admin_user_password']]
+2017-17-06 08:17:52 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-17-06 08:17:52 INFO  VerifyValidLogin:34 - *******************Finished VerifyValidLogin Test****************
+2017-25-06 08:25:34 INFO  VerifyValidLogin:28 - *******************Starting VerifyValidLogin Test****************
+2017-25-06 08:25:34 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (cfc3e832-0926-465f-b7fc-bde694d3dd8c)] -> xpath: //input[@id='admin_user_username']]
+2017-25-06 08:25:35 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (cfc3e832-0926-465f-b7fc-bde694d3dd8c)] -> xpath: //input[@id='admin_user_password']]
+2017-26-06 08:26:12 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-26-06 08:26:12 INFO  VerifyValidLogin:34 - *******************Finished VerifyValidLogin Test****************
+2017-46-06 14:46:07 INFO  VerifyValidLogin:28 - *******************Starting VerifyValidLogin Test****************
+2017-46-06 14:46:07 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (30e2dc49-7b83-457c-89b3-0ed4f7ace924)] -> xpath: //input[@id='admin_user_username']]
+2017-46-06 14:46:07 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (30e2dc49-7b83-457c-89b3-0ed4f7ace924)] -> xpath: //input[@id='admin_user_password']]
+2017-46-06 14:46:42 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-46-06 14:46:42 INFO  VerifyValidLogin:34 - *******************Finished VerifyValidLogin Test****************
+2017-55-06 14:55:24 INFO  VerifyValidLogin:28 - *******************Starting VerifyValidLogin Test****************
+2017-55-06 14:55:24 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (65b9c571-0338-48b9-b6ce-b3f4bd44111a)] -> xpath: //input[@id='admin_user_username']]
+2017-55-06 14:55:25 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (65b9c571-0338-48b9-b6ce-b3f4bd44111a)] -> xpath: //input[@id='admin_user_password']]
+2017-56-06 14:56:00 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-56-06 14:56:00 INFO  VerifyValidLogin:34 - *******************Finished VerifyValidLogin Test****************
+2017-04-06 15:04:06 INFO  VerifyValidLogin:28 - *******************Starting VerifyValidLogin Test****************
+2017-04-06 15:04:06 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (4ecb2fd4-c8e1-4f6f-88c9-80390e523d8e)] -> xpath: //input[@id='admin_user_username']]
+2017-04-06 15:04:07 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (4ecb2fd4-c8e1-4f6f-88c9-80390e523d8e)] -> xpath: //input[@id='admin_user_password']]
+2017-04-06 15:04:42 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-04-06 15:04:42 INFO  VerifyValidLogin:34 - *******************Finished VerifyValidLogin Test****************
+2017-19-06 15:19:41 INFO  TestBase:45 - Creating object of firefox
+2017-19-06 15:19:47 INFO  TestBase:56 - Navigating to http://bvc-qa.herokuapp.com/admin
+2017-19-06 15:19:50 INFO  ExcelReader:54 - ===========Excel reader Starts=========
+2017-19-06 15:19:50 INFO  ExcelReader:80 - ==========Excel Reading Finished================
+2017-19-06 15:19:50 INFO  TestBase:42 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-19-06 15:19:51 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (7801ad6a-ecec-472a-84d4-7014deca9bec)] -> xpath: //input[@id='admin_user_username']]
+2017-19-06 15:19:51 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (7801ad6a-ecec-472a-84d4-7014deca9bec)] -> xpath: //input[@id='admin_user_password']]
+2017-20-06 15:20:26 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-20-06 15:20:26 INFO  HomePage:43 - logout is displayed and object is [[FirefoxDriver: firefox on WINDOWS (7801ad6a-ecec-472a-84d4-7014deca9bec)] -> xpath: //a[@class='logout']]
+2017-20-06 15:20:59 INFO  HomePage:55 - Clicked on Logout link and object isProxy element for: DefaultElementLocator 'By.xpath: //a[@class='logout']'
+2017-20-06 15:20:59 INFO  TestBase:52 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2017-20-06 15:20:59 INFO  TestBase:42 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-20-06 15:20:59 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (7801ad6a-ecec-472a-84d4-7014deca9bec)] -> xpath: //input[@id='admin_user_username']]
+2017-20-06 15:20:59 INFO  HomePage:34 - Entered Password sujit1234 and object is [[FirefoxDriver: firefox on WINDOWS (7801ad6a-ecec-472a-84d4-7014deca9bec)] -> xpath: //input[@id='admin_user_password']]
+2017-21-06 15:21:01 INFO  HomePage:36 - Clicked on Login button and object is [[FirefoxDriver: firefox on WINDOWS (7801ad6a-ecec-472a-84d4-7014deca9bec)] -> xpath: //button[@class='btn']]
+2017-21-06 15:21:31 INFO  VerifyValidLogin:28 - *******************Starting VerifyValidLogin Test****************
+2017-21-06 15:21:31 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (7801ad6a-ecec-472a-84d4-7014deca9bec)] -> xpath: //input[@id='admin_user_username']]
+2017-21-06 15:21:32 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (7801ad6a-ecec-472a-84d4-7014deca9bec)] -> xpath: //input[@id='admin_user_password']]
+2017-21-06 15:21:33 INFO  HomePage:36 - Clicked on Login button and object is [[FirefoxDriver: firefox on WINDOWS (7801ad6a-ecec-472a-84d4-7014deca9bec)] -> xpath: //button[@class='btn']]
+2017-21-06 15:21:33 INFO  VerifyValidLogin:34 - *******************Finished VerifyValidLogin Test****************
+2017-23-06 15:23:54 INFO  TestBase:45 - Creating object of firefox
+2017-23-06 15:23:57 INFO  TestBase:56 - Navigating to http://bvc-qa.herokuapp.com/admin
+2017-23-06 15:23:59 INFO  ExcelReader:54 - ===========Excel reader Starts=========
+2017-23-06 15:23:59 INFO  ExcelReader:80 - ==========Excel Reading Finished================
+2017-23-06 15:23:59 INFO  TestBase:42 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-24-06 15:24:00 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (0eb32bbd-6a37-4cb5-9748-0ad3ec6c889f)] -> xpath: //input[@id='admin_user_username']]
+2017-24-06 15:24:01 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (0eb32bbd-6a37-4cb5-9748-0ad3ec6c889f)] -> xpath: //input[@id='admin_user_password']]
+2017-24-06 15:24:34 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-24-06 15:24:35 INFO  HomePage:43 - logout is displayed and object is [[FirefoxDriver: firefox on WINDOWS (0eb32bbd-6a37-4cb5-9748-0ad3ec6c889f)] -> xpath: //a[@class='logout']]
+2017-25-06 15:25:07 INFO  HomePage:55 - Clicked on Logout link and object isProxy element for: DefaultElementLocator 'By.xpath: //a[@class='logout']'
+2017-25-06 15:25:07 INFO  TestBase:52 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2017-25-06 15:25:07 INFO  TestBase:42 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-25-06 15:25:07 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (0eb32bbd-6a37-4cb5-9748-0ad3ec6c889f)] -> xpath: //input[@id='admin_user_username']]
+2017-25-06 15:25:07 INFO  HomePage:34 - Entered Password sujit1234 and object is [[FirefoxDriver: firefox on WINDOWS (0eb32bbd-6a37-4cb5-9748-0ad3ec6c889f)] -> xpath: //input[@id='admin_user_password']]
+2017-25-06 15:25:10 INFO  HomePage:36 - Clicked on Login button and object is [[FirefoxDriver: firefox on WINDOWS (0eb32bbd-6a37-4cb5-9748-0ad3ec6c889f)] -> xpath: //button[@class='btn']]
+2017-25-06 15:25:40 INFO  VerifyValidLogin:28 - *******************Starting VerifyValidLogin Test****************
+2017-25-06 15:25:40 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (0eb32bbd-6a37-4cb5-9748-0ad3ec6c889f)] -> xpath: //input[@id='admin_user_username']]
+2017-25-06 15:25:40 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (0eb32bbd-6a37-4cb5-9748-0ad3ec6c889f)] -> xpath: //input[@id='admin_user_password']]
+2017-25-06 15:25:42 INFO  HomePage:36 - Clicked on Login button and object is [[FirefoxDriver: firefox on WINDOWS (0eb32bbd-6a37-4cb5-9748-0ad3ec6c889f)] -> xpath: //button[@class='btn']]
+2017-25-06 15:25:42 INFO  VerifyValidLogin:34 - *******************Finished VerifyValidLogin Test****************
+2017-45-06 15:45:15 INFO  TestBase:45 - Creating object of firefox
+2017-45-06 15:45:19 INFO  TestBase:56 - Navigating to http://bvc-qa.herokuapp.com/admin
+2017-45-06 15:45:21 INFO  ExcelReader:54 - ===========Excel reader Starts=========
+2017-45-06 15:45:21 INFO  ExcelReader:80 - ==========Excel Reading Finished================
+2017-45-06 15:45:21 INFO  TestBase:42 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-45-06 15:45:22 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (7b6fcbe8-a4b3-4dd4-9993-c8ed325dd831)] -> xpath: //input[@id='admin_user_username']]
+2017-45-06 15:45:22 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (7b6fcbe8-a4b3-4dd4-9993-c8ed325dd831)] -> xpath: //input[@id='admin_user_password']]
+2017-46-06 15:46:28 INFO  HomePage:36 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-46-06 15:46:28 INFO  HomePage:43 - logout is displayed and object is [[FirefoxDriver: firefox on WINDOWS (7b6fcbe8-a4b3-4dd4-9993-c8ed325dd831)] -> xpath: //a[@class='logout']]
+2017-47-06 15:47:31 INFO  HomePage:55 - Clicked on Logout link and object isProxy element for: DefaultElementLocator 'By.xpath: //a[@class='logout']'
+2017-47-06 15:47:31 INFO  TestBase:52 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2017-47-06 15:47:31 INFO  TestBase:42 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-47-06 15:47:31 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (7b6fcbe8-a4b3-4dd4-9993-c8ed325dd831)] -> xpath: //input[@id='admin_user_username']]
+2017-47-06 15:47:31 INFO  HomePage:34 - Entered Password sujit1234 and object is [[FirefoxDriver: firefox on WINDOWS (7b6fcbe8-a4b3-4dd4-9993-c8ed325dd831)] -> xpath: //input[@id='admin_user_password']]
+2017-47-06 15:47:34 INFO  HomePage:36 - Clicked on Login button and object is [[FirefoxDriver: firefox on WINDOWS (7b6fcbe8-a4b3-4dd4-9993-c8ed325dd831)] -> xpath: //button[@class='btn']]
+2017-48-06 15:48:34 INFO  VerifyValidLogin:28 - *******************Starting VerifyValidLogin Test****************
+2017-48-06 15:48:34 INFO  HomePage:32 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (7b6fcbe8-a4b3-4dd4-9993-c8ed325dd831)] -> xpath: //input[@id='admin_user_username']]
+2017-48-06 15:48:34 INFO  HomePage:34 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (7b6fcbe8-a4b3-4dd4-9993-c8ed325dd831)] -> xpath: //input[@id='admin_user_password']]
+2017-48-06 15:48:36 INFO  HomePage:36 - Clicked on Login button and object is [[FirefoxDriver: firefox on WINDOWS (7b6fcbe8-a4b3-4dd4-9993-c8ed325dd831)] -> xpath: //button[@class='btn']]
+2017-48-06 15:48:36 INFO  VerifyValidLogin:34 - *******************Finished VerifyValidLogin Test****************
+2017-13-06 16:13:18 INFO  TestBase:45 - Creating object of firefox
+2017-13-06 16:13:22 INFO  TestBase:56 - Navigating to http://bvc-qa.herokuapp.com/admin
+2017-13-06 16:13:24 INFO  ExcelReader:54 - ===========Excel reader Starts=========
+2017-13-06 16:13:24 INFO  ExcelReader:80 - ==========Excel Reading Finished================
+2017-13-06 16:13:24 INFO  TestBase:42 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-13-06 16:13:24 INFO  HomePage:33 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (e46cdf33-b7dd-46d2-8a6e-a0badeab5467)] -> xpath: //input[@id='admin_user_username']]
+2017-13-06 16:13:25 INFO  HomePage:36 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (e46cdf33-b7dd-46d2-8a6e-a0badeab5467)] -> xpath: //input[@id='admin_user_password']]
+2017-14-06 16:14:30 INFO  HomePage:38 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-14-06 16:14:30 INFO  HomePage:45 - logout is displayed and object is [[FirefoxDriver: firefox on WINDOWS (e46cdf33-b7dd-46d2-8a6e-a0badeab5467)] -> xpath: //a[@class='logout']]
+2017-15-06 16:15:32 INFO  HomePage:57 - Clicked on Logout link and object isProxy element for: DefaultElementLocator 'By.xpath: //a[@class='logout']'
+2017-15-06 16:15:32 INFO  TestBase:52 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2017-15-06 16:15:32 INFO  TestBase:42 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-15-06 16:15:32 INFO  HomePage:33 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (e46cdf33-b7dd-46d2-8a6e-a0badeab5467)] -> xpath: //input[@id='admin_user_username']]
+2017-15-06 16:15:32 INFO  HomePage:36 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (e46cdf33-b7dd-46d2-8a6e-a0badeab5467)] -> xpath: //input[@id='admin_user_password']]
+2017-16-06 16:16:36 INFO  HomePage:38 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-16-06 16:16:36 INFO  HomePage:45 - logout is displayed and object is [[FirefoxDriver: firefox on WINDOWS (e46cdf33-b7dd-46d2-8a6e-a0badeab5467)] -> xpath: //a[@class='logout']]
+2017-17-06 16:17:39 INFO  HomePage:57 - Clicked on Logout link and object isProxy element for: DefaultElementLocator 'By.xpath: //a[@class='logout']'
+2017-17-06 16:17:39 INFO  TestBase:52 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2017-17-06 16:17:39 INFO  VerifyValidLogin:28 - *******************Starting VerifyValidLogin Test****************
+2017-17-06 16:17:40 INFO  HomePage:33 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (e46cdf33-b7dd-46d2-8a6e-a0badeab5467)] -> xpath: //input[@id='admin_user_username']]
+2017-17-06 16:17:40 INFO  HomePage:36 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (e46cdf33-b7dd-46d2-8a6e-a0badeab5467)] -> xpath: //input[@id='admin_user_password']]
+2017-18-06 16:18:43 INFO  HomePage:38 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-18-06 16:18:43 INFO  VerifyValidLogin:34 - *******************Finished VerifyValidLogin Test****************
+2017-27-06 16:27:55 INFO  VerifyValidLogin:28 - *******************Starting VerifyValidLogin Test****************
+2017-27-06 16:27:55 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-27-06 16:27:55 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-27-06 16:27:56 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-27-06 16:27:56 INFO  HomePage:33 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (b7c057d2-2dd9-4b03-bb88-e01e851fef8b)] -> xpath: //input[@id='admin_user_username']]
+2017-27-06 16:27:56 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_password']
+2017-27-06 16:27:56 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_password']
+2017-27-06 16:27:57 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_password']
+2017-27-06 16:27:57 INFO  HomePage:36 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (b7c057d2-2dd9-4b03-bb88-e01e851fef8b)] -> xpath: //input[@id='admin_user_password']]
+2017-27-06 16:27:57 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //button[@class='btn']
+2017-28-06 16:28:00 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //button[@class='btn']
+2017-29-06 16:29:00 INFO  HomePage:38 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-29-06 16:29:00 INFO  VerifyValidLogin:34 - *******************Finished VerifyValidLogin Test****************
+2017-49-18 16:49:46 INFO  VerifyValidLogin:28 - *******************Starting VerifyValidLogin Test****************
+2017-49-18 16:49:47 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-13-20 07:13:14 INFO  VerifyValidLogin:28 - *******************Starting VerifyValidLogin Test****************
+2017-13-20 07:13:14 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-38-20 08:38:21 INFO  VerifyValidLogin:29 - *******************Starting VerifyValidLogin Test****************
+2017-38-20 08:38:21 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-43-20 08:43:08 INFO  VerifyValidLogin:29 - *******************Starting VerifyValidLogin Test****************
+2017-43-20 08:43:08 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-53-20 08:53:07 INFO  VerifyValidLogin:29 - *******************Starting VerifyValidLogin Test****************
+2017-53-20 08:53:07 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-02-20 09:02:09 INFO  VerifyValidLogin:29 - *******************Starting VerifyValidLogin Test****************
+2017-02-20 09:02:09 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-06-20 09:06:49 INFO  VerifyValidLogin:29 - *******************Starting VerifyValidLogin Test****************
+2017-06-20 09:06:49 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-10-20 09:10:48 INFO  VerifyValidLogin:30 - *******************Starting VerifyValidLogin Test****************
+2017-10-20 09:10:48 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-11-20 09:11:21 INFO  VerifyValidLogin:30 - *******************Starting VerifyValidLogin Test****************
+2017-11-20 09:11:22 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-11-22 08:11:19 INFO  VerifyValidLogin:30 - *******************Starting VerifyValidLogin Test****************
+2017-11-22 08:11:19 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username123']
+2017-17-22 08:17:20 INFO  VerifyValidLogin:30 - *******************Starting VerifyValidLogin Test****************
+2017-17-22 08:17:20 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username123']
+2017-23-22 08:23:25 INFO  VerifyValidLogin:30 - *******************Starting VerifyValidLogin Test****************
+2017-23-22 08:23:25 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username123']
+2017-29-22 08:29:38 INFO  VerifyValidLogin:30 - *******************Starting VerifyValidLogin Test****************
+2017-29-22 08:29:38 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username123']
+2017-46-22 08:46:15 INFO  VerifyValidLogin:31 - *******************Starting VerifyValidLogin Test****************
+2017-46-22 08:46:15 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username123']
+2017-08-22 09:08:11 INFO  VerifyValidLogin:31 - *******************Starting VerifyValidLogin Test****************
+2017-08-22 09:08:11 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username123']
+2017-03-22 13:03:37 INFO  VerifyValidLogin:31 - *******************Starting VerifyValidLogin Test****************
+2017-03-22 13:03:37 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username123']
+2017-26-22 13:26:00 INFO  VerifyValidLogin:31 - *******************Starting VerifyValidLogin Test****************
+2017-26-22 13:26:00 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username123']
+2017-28-22 13:28:12 INFO  VerifyValidLogin:31 - *******************Starting VerifyValidLogin Test****************
+2017-28-22 13:28:12 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-28-22 13:28:12 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-28-22 13:28:13 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-28-22 13:28:13 INFO  HomePage:37 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (5639586a-9171-46fe-9df1-d338940353ba)] -> xpath: //input[@id='admin_user_username']]
+2017-28-22 13:28:13 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_password']
+2017-28-22 13:28:13 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_password']
+2017-28-22 13:28:14 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_password']
+2017-28-22 13:28:14 INFO  HomePage:40 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (5639586a-9171-46fe-9df1-d338940353ba)] -> xpath: //input[@id='admin_user_password']]
+2017-28-22 13:28:14 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //button[@class='btn']
+2017-28-22 13:28:18 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //button[@class='btn']
+2017-29-22 13:29:18 INFO  HomePage:42 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-39-22 13:39:34 INFO  VerifyValidLogin:31 - *******************Starting VerifyValidLogin Test****************
+2017-39-22 13:39:34 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-39-22 13:39:34 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-39-22 13:39:34 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-39-22 13:39:34 INFO  HomePage:37 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (d1bf60e3-667e-4a6b-8034-a8b666c2e234)] -> xpath: //input[@id='admin_user_username']]
+2017-39-22 13:39:34 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_password']
+2017-39-22 13:39:34 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_password']
+2017-39-22 13:39:34 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_password']
+2017-39-22 13:39:34 INFO  HomePage:40 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (d1bf60e3-667e-4a6b-8034-a8b666c2e234)] -> xpath: //input[@id='admin_user_password']]
+2017-39-22 13:39:34 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //button[@class='btn']
+2017-39-22 13:39:44 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //button[@class='btn']
+2017-40-22 13:40:44 INFO  HomePage:42 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-40-22 13:40:45 INFO  VerifyValidLogin:38 - *******************Finished VerifyValidLogin Test****************
+2017-03-22 14:03:49 INFO  VerifyValidLogin:30 - *******************Starting VerifyValidLogin Test****************
+2017-03-22 14:03:49 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-03-22 14:03:49 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-03-22 14:03:49 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-03-22 14:03:49 INFO  HomePage:39 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (9bd20aee-4e10-4aaa-b191-85ed311e4759)] -> xpath: //input[@id='admin_user_username']]
+2017-03-22 14:03:49 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_password']
+2017-03-22 14:03:50 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_password']
+2017-03-22 14:03:50 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_password']
+2017-03-22 14:03:50 INFO  HomePage:42 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (9bd20aee-4e10-4aaa-b191-85ed311e4759)] -> xpath: //input[@id='admin_user_password']]
+2017-03-22 14:03:50 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //button[@class='btn']
+2017-03-22 14:03:52 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //button[@class='btn']
+2017-04-22 14:04:53 INFO  HomePage:44 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-09-22 14:09:18 INFO  VerifyValidLogin:30 - *******************Starting VerifyValidLogin Test****************
+2017-09-22 14:09:18 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-09-22 14:09:19 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-09-22 14:09:19 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-09-22 14:09:19 INFO  HomePage:39 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (f0abc521-5dac-4470-a287-ff98a97b1588)] -> xpath: //input[@id='admin_user_username']]
+2017-09-22 14:09:19 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_password']
+2017-09-22 14:09:19 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_password']
+2017-09-22 14:09:19 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_password']
+2017-09-22 14:09:19 INFO  HomePage:42 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (f0abc521-5dac-4470-a287-ff98a97b1588)] -> xpath: //input[@id='admin_user_password']]
+2017-09-22 14:09:19 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //button[@class='btn']
+2017-09-22 14:09:23 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //button[@class='btn']
+2017-10-22 14:10:23 INFO  HomePage:44 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-10-22 14:10:23 INFO  VerifyValidLogin:36 - *******************Finished VerifyValidLogin Test****************
+2017-16-22 14:16:54 INFO  TestBase:50 - Creating object of firefox
+2017-16-22 14:16:54 INFO  WebEventListener:93 - navigated ot: http://bvc-qa.herokuapp.com/admin
+2017-16-22 14:16:58 INFO  TestBase:61 - Navigating to http://bvc-qa.herokuapp.com/admin
+2017-17-22 14:17:01 INFO  ExcelReader:54 - ===========Excel reader Starts=========
+2017-17-22 14:17:01 INFO  ExcelReader:80 - ==========Excel Reading Finished================
+2017-17-22 14:17:01 INFO  TestBase:42 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-17-22 14:17:01 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-17-22 14:17:01 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-17-22 14:17:01 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-17-22 14:17:01 INFO  HomePage:39 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (6b0e95d4-cce4-47e4-942d-1cf857524768)] -> xpath: //input[@id='admin_user_username']]
+2017-17-22 14:17:01 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_password']
+2017-17-22 14:17:02 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_password']
+2017-17-22 14:17:02 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_password']
+2017-17-22 14:17:02 INFO  HomePage:42 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (6b0e95d4-cce4-47e4-942d-1cf857524768)] -> xpath: //input[@id='admin_user_password']]
+2017-17-22 14:17:02 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //button[@class='btn']
+2017-17-22 14:17:06 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //button[@class='btn']
+2017-18-22 14:18:06 INFO  HomePage:44 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-18-22 14:18:06 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //a[@class='logout']
+2017-18-22 14:18:06 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //a[@class='logout']
+2017-18-22 14:18:06 INFO  HomePage:54 - logout is displayed and object is [[FirefoxDriver: firefox on WINDOWS (6b0e95d4-cce4-47e4-942d-1cf857524768)] -> xpath: //a[@class='logout']]
+2017-18-22 14:18:06 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //a[@class='logout']
+2017-18-22 14:18:07 INFO  WebEventListener:24 - Clicked on: [[FirefoxDriver: firefox on WINDOWS (6b0e95d4-cce4-47e4-942d-1cf857524768)] -> xpath: //a[@class='logout']]
+2017-18-22 14:18:07 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //a[@class='logout']
+2017-19-22 14:19:09 INFO  HomePage:66 - Clicked on Logout link and object isProxy element for: DefaultElementLocator 'By.xpath: //a[@class='logout']'
+2017-19-22 14:19:09 INFO  TestBase:52 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2017-07-22 15:07:27 INFO  TestBase:50 - Creating object of firefox
+2017-07-22 15:07:27 INFO  WebEventListener:93 - navigated ot: http://bvc-qa.herokuapp.com/admin
+2017-07-22 15:07:31 INFO  TestBase:61 - Navigating to http://bvc-qa.herokuapp.com/admin
+2017-07-22 15:07:33 INFO  ExcelReader:54 - ===========Excel reader Starts=========
+2017-07-22 15:07:33 INFO  ExcelReader:80 - ==========Excel Reading Finished================
+2017-07-22 15:07:33 INFO  TestBase:42 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-07-22 15:07:33 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-07-22 15:07:33 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-07-22 15:07:33 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-07-22 15:07:33 INFO  HomePage:39 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (57d2f0c2-4698-4ef8-970e-bc8891c76231)] -> xpath: //input[@id='admin_user_username']]
+2017-07-22 15:07:33 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_password']
+2017-07-22 15:07:33 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_password']
+2017-07-22 15:07:33 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_password']
+2017-07-22 15:07:33 INFO  HomePage:42 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (57d2f0c2-4698-4ef8-970e-bc8891c76231)] -> xpath: //input[@id='admin_user_password']]
+2017-07-22 15:07:33 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //button[@class='btn']
+2017-07-22 15:07:38 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //button[@class='btn']
+2017-08-22 15:08:38 INFO  HomePage:44 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-08-22 15:08:38 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //a[@class='logout']
+2017-08-22 15:08:38 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //a[@class='logout']
+2017-08-22 15:08:38 INFO  HomePage:54 - logout is displayed and object is [[FirefoxDriver: firefox on WINDOWS (57d2f0c2-4698-4ef8-970e-bc8891c76231)] -> xpath: //a[@class='logout']]
+2017-08-22 15:08:38 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //a[@class='logout']
+2017-08-22 15:08:39 INFO  WebEventListener:24 - Clicked on: [[FirefoxDriver: firefox on WINDOWS (57d2f0c2-4698-4ef8-970e-bc8891c76231)] -> xpath: //a[@class='logout']]
+2017-08-22 15:08:39 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //a[@class='logout']
+2017-09-22 15:09:42 INFO  HomePage:66 - Clicked on Logout link and object isProxy element for: DefaultElementLocator 'By.xpath: //a[@class='logout']'
+2017-09-22 15:09:42 INFO  TestBase:52 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2017-09-22 15:09:42 INFO  TestBase:42 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-09-22 15:09:42 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-09-22 15:09:42 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-09-22 15:09:43 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-09-22 15:09:43 INFO  HomePage:39 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (57d2f0c2-4698-4ef8-970e-bc8891c76231)] -> xpath: //input[@id='admin_user_username']]
+2017-09-22 15:09:43 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_password']
+2017-09-22 15:09:43 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_password']
+2017-09-22 15:09:43 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_password']
+2017-09-22 15:09:43 INFO  HomePage:42 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (57d2f0c2-4698-4ef8-970e-bc8891c76231)] -> xpath: //input[@id='admin_user_password']]
+2017-09-22 15:09:43 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //button[@class='btn']
+2017-09-22 15:09:45 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //button[@class='btn']
+2017-10-22 15:10:46 INFO  HomePage:44 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-10-22 15:10:46 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //a[@class='logout']
+2017-10-22 15:10:46 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //a[@class='logout']
+2017-10-22 15:10:46 INFO  HomePage:54 - logout is displayed and object is [[FirefoxDriver: firefox on WINDOWS (57d2f0c2-4698-4ef8-970e-bc8891c76231)] -> xpath: //a[@class='logout']]
+2017-10-22 15:10:46 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //a[@class='logout']
+2017-10-22 15:10:46 INFO  WebEventListener:24 - Clicked on: [[FirefoxDriver: firefox on WINDOWS (57d2f0c2-4698-4ef8-970e-bc8891c76231)] -> xpath: //a[@class='logout']]
+2017-10-22 15:10:46 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //a[@class='logout']
+2017-11-22 15:11:48 INFO  HomePage:66 - Clicked on Logout link and object isProxy element for: DefaultElementLocator 'By.xpath: //a[@class='logout']'
+2017-11-22 15:11:48 INFO  TestBase:52 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2017-11-22 15:11:48 INFO  VerifyValidLogin:30 - *******************Starting VerifyValidLogin Test****************
+2017-11-22 15:11:48 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-11-22 15:11:48 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-11-22 15:11:48 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-11-22 15:11:48 INFO  HomePage:39 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (57d2f0c2-4698-4ef8-970e-bc8891c76231)] -> xpath: //input[@id='admin_user_username']]
+2017-11-22 15:11:48 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_password']
+2017-11-22 15:11:48 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_password']
+2017-11-22 15:11:48 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_password']
+2017-11-22 15:11:48 INFO  HomePage:42 - Entered Password sujit1234 and object is [[FirefoxDriver: firefox on WINDOWS (57d2f0c2-4698-4ef8-970e-bc8891c76231)] -> xpath: //input[@id='admin_user_password']]
+2017-11-22 15:11:48 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //button[@class='btn']
+2017-11-22 15:11:50 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //button[@class='btn']
+2017-11-22 15:11:50 INFO  HomePage:44 - Clicked on Login button and object is [[FirefoxDriver: firefox on WINDOWS (57d2f0c2-4698-4ef8-970e-bc8891c76231)] -> xpath: //button[@class='btn']]
+2017-11-22 15:11:50 INFO  VerifyValidLogin:36 - *******************Finished VerifyValidLogin Test****************
+2017-16-26 16:16:05 INFO  TestBase:50 - Creating object of firefox
+2017-16-26 16:16:05 INFO  WebEventListener:93 - navigated ot: http://bvc-qa.herokuapp.com/admin
+2017-16-26 16:16:08 INFO  TestBase:61 - Navigating to http://bvc-qa.herokuapp.com/admin
+2017-16-26 16:16:12 INFO  ExcelReader:54 - ===========Excel reader Starts=========
+2017-16-26 16:16:12 INFO  ExcelReader:80 - ==========Excel Reading Finished================
+2017-16-26 16:16:12 INFO  TestBase:42 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-16-26 16:16:12 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-16-26 16:16:12 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-16-26 16:16:13 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-16-26 16:16:13 INFO  HomePage:39 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (d895865c-3c96-40af-829b-5de521a6ccf0)] -> xpath: //input[@id='admin_user_username']]
+2017-16-26 16:16:13 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_password']
+2017-16-26 16:16:14 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_password']
+2017-16-26 16:16:14 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_password']
+2017-16-26 16:16:14 INFO  HomePage:42 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (d895865c-3c96-40af-829b-5de521a6ccf0)] -> xpath: //input[@id='admin_user_password']]
+2017-16-26 16:16:14 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //button[@class='btn']
+2017-16-26 16:16:18 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //button[@class='btn']
+2017-17-26 16:17:19 INFO  HomePage:44 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-17-26 16:17:19 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //a[@class='logout']
+2017-17-26 16:17:19 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //a[@class='logout']
+2017-17-26 16:17:19 INFO  HomePage:54 - logout is displayed and object is [[FirefoxDriver: firefox on WINDOWS (d895865c-3c96-40af-829b-5de521a6ccf0)] -> xpath: //a[@class='logout']]
+2017-17-26 16:17:19 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //a[@class='logout']
+2017-17-26 16:17:20 INFO  WebEventListener:24 - Clicked on: [[FirefoxDriver: firefox on WINDOWS (d895865c-3c96-40af-829b-5de521a6ccf0)] -> xpath: //a[@class='logout']]
+2017-17-26 16:17:20 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //a[@class='logout']
+2017-18-26 16:18:21 INFO  HomePage:66 - Clicked on Logout link and object isProxy element for: DefaultElementLocator 'By.xpath: //a[@class='logout']'
+2017-18-26 16:18:21 INFO  TestBase:52 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2017-18-26 16:18:22 INFO  TestBase:42 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2017-18-26 16:18:22 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-18-26 16:18:22 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-18-26 16:18:23 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-18-26 16:18:23 INFO  HomePage:39 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (d895865c-3c96-40af-829b-5de521a6ccf0)] -> xpath: //input[@id='admin_user_username']]
+2017-18-26 16:18:23 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_password']
+2017-18-26 16:18:23 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_password']
+2017-18-26 16:18:23 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_password']
+2017-18-26 16:18:23 INFO  HomePage:42 - Entered Password sujit123 and object is [[FirefoxDriver: firefox on WINDOWS (d895865c-3c96-40af-829b-5de521a6ccf0)] -> xpath: //input[@id='admin_user_password']]
+2017-18-26 16:18:23 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //button[@class='btn']
+2017-18-26 16:18:26 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //button[@class='btn']
+2017-19-26 16:19:26 INFO  HomePage:44 - Clicked on Login button and object is Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn']'
+2017-19-26 16:19:26 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //a[@class='logout']
+2017-19-26 16:19:26 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //a[@class='logout']
+2017-19-26 16:19:26 INFO  HomePage:54 - logout is displayed and object is [[FirefoxDriver: firefox on WINDOWS (d895865c-3c96-40af-829b-5de521a6ccf0)] -> xpath: //a[@class='logout']]
+2017-19-26 16:19:26 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //a[@class='logout']
+2017-19-26 16:19:27 INFO  WebEventListener:24 - Clicked on: [[FirefoxDriver: firefox on WINDOWS (d895865c-3c96-40af-829b-5de521a6ccf0)] -> xpath: //a[@class='logout']]
+2017-19-26 16:19:27 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //a[@class='logout']
+2017-20-26 16:20:29 INFO  HomePage:66 - Clicked on Logout link and object isProxy element for: DefaultElementLocator 'By.xpath: //a[@class='logout']'
+2017-20-26 16:20:29 INFO  TestBase:52 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2017-20-26 16:20:29 INFO  VerifyValidLogin:30 - *******************Starting VerifyValidLogin Test****************
+2017-20-26 16:20:29 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-20-26 16:20:29 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-20-26 16:20:29 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_username']
+2017-20-26 16:20:29 INFO  HomePage:39 - Entered User Name test.bvc and object is [[FirefoxDriver: firefox on WINDOWS (d895865c-3c96-40af-829b-5de521a6ccf0)] -> xpath: //input[@id='admin_user_username']]
+2017-20-26 16:20:29 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_password']
+2017-20-26 16:20:29 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_password']
+2017-20-26 16:20:29 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //input[@id='admin_user_password']
+2017-20-26 16:20:29 INFO  HomePage:42 - Entered Password sujit1234 and object is [[FirefoxDriver: firefox on WINDOWS (d895865c-3c96-40af-829b-5de521a6ccf0)] -> xpath: //input[@id='admin_user_password']]
+2017-20-26 16:20:29 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //button[@class='btn']
+2017-20-26 16:20:31 INFO  WebEventListener:71 - Trying to find Element by: By.xpath: //button[@class='btn']
+2017-20-26 16:20:31 INFO  HomePage:44 - Clicked on Login button and object is [[FirefoxDriver: firefox on WINDOWS (d895865c-3c96-40af-829b-5de521a6ccf0)] -> xpath: //button[@class='btn']]
+2017-20-26 16:20:31 INFO  VerifyValidLogin:36 - *******************Finished VerifyValidLogin Test****************
